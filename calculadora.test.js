@@ -15,7 +15,7 @@ describe('Calculadora', () => {
         expect(calc.resta(5, 3)).toBe(2);
     });
 
-    test('multiplicacion 2 * 3 = 6', () => {
+    test('multiplicación 2 * 3 = 6', () => {
         expect(calc.multiplicacion(2, 3)).toBe(6);
     });
 
