@@ -1,0 +1,15 @@
+{
+  "name": "prueba-unitaria-calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora simple con pruebas unitarias",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.0"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
